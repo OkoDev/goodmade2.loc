@@ -1,11 +1,9 @@
 {
   "autoload": {
     "psr-4": {
-      "goodmade\\": "vendor/goodmade/core",
+      "ishop\\": "vendor/goodmade/core",
       "app\\": "app"
     }
   },
-  "require": {
-
-  }
+  "require": {}
 }

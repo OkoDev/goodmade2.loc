@@ -4,12 +4,12 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInited75763d2b19b4d60ab79b7f62c46614
+class ComposerStaticInit0dabf51485c17910d99e5a88c66a2ed6
 {
     public static $prefixLengthsPsr4 = array (
-        'g' => 
+        'i' => 
         array (
-            'goodmade\\' => 9,
+            'goodmade\\' => 6,
         ),
         'a' => 
         array (
@@ -18,7 +18,7 @@ class ComposerStaticInited75763d2b19b4d60ab79b7f62c46614
     );
 
     public static $prefixDirsPsr4 = array (
-        'goodmade\\' => 
+        'goodmade\\' =>
         array (
             0 => __DIR__ . '/..' . '/goodmade/core',
         ),
@@ -31,8 +31,8 @@ class ComposerStaticInited75763d2b19b4d60ab79b7f62c46614
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInited75763d2b19b4d60ab79b7f62c46614::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInited75763d2b19b4d60ab79b7f62c46614::$prefixDirsPsr4;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit0dabf51485c17910d99e5a88c66a2ed6::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit0dabf51485c17910d99e5a88c66a2ed6::$prefixDirsPsr4;
 
         }, null, ClassLoader::class);
     }

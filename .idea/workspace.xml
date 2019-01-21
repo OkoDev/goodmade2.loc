@@ -2,10 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9e2ff50-fa5f-45c2-8d6c-e9c764ec4d6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/goodmade.loc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goodmade.loc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/default.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/params.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/errors/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/dev.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/errors/dev.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/images/carrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/errors/prod.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/errors/prod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/ErrorHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/ErrorHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/Registry.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/Registry.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/TSingletone.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/TSingletone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/base/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/base/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/goodmade/core/base/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/goodmade/core/base/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/.idea/GoodMade.loc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/checkout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/css/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/css/memenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/fonts/BreeSerif-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/fonts/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/fonts/Lora-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/fonts/Muli-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/fonts/Philosopher-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/abt-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/abt-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/abt-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/bnr-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/bnr-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/bnr-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/c-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/c-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/c-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/cart-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/cart-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/cart-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/crossword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/p-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/pr-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/pr-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/s-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/s-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/s-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/s-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/images/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/imagezoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/jquery-1.11.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/jquery.easydropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/jquery.flexslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/memenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/responsiveslides.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/js/simpleCart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/typo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch/w3layouts-License.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +109,8 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/AppController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app/controllers/AppController.php" />
-      </list>
-    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -54,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,32 +135,10 @@
               <item name="goodmade.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="goodmade.loc" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="goodmade.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goodmade.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goodmade.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goodmade.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goodmade.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goodmade.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goodmade.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goodmade.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="watch" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,27 +169,17 @@
       <option name="presentableId" value="Default" />
       <updated>1547976957870</updated>
       <workItem from="1547976959076" duration="104000" />
-      <workItem from="1548109465519" duration="209000" />
-      <workItem from="1548109687239" duration="34000" />
+      <workItem from="1548111073660" duration="10000" />
     </task>
-    <task id="LOCAL-00001" summary="2.1">
-      <created>1548109638254</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1548109638254</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347000" />
+    <option name="totallyTimeSpent" value="114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25611246" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -149,10 +191,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32997763" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32997763" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -161,18 +202,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/AppController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
