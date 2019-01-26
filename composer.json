@@ -1,9 +1,11 @@
 {
   "autoload": {
     "psr-4": {
-      "ishop\\": "vendor/goodmade/core",
+      "goodmade\\": "vendor/goodmade/core",
       "app\\": "app"
     }
   },
-  "require": {}
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  }
 }
