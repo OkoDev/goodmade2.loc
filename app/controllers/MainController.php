@@ -6,15 +6,14 @@ use goodmade\App;
 
 class MainController extends AppController {
 
-//    public $layout = 'test';
-
     public function indexAction(){
-//        $this->layout = 'test';
-//        echo __METHOD__;
-
+        $posts = \R::findAll('test');
+        $post = \R::findOne('test', 'id = ?', [2]);
         $this->setMeta(App::$app->getProperty('shop_name'),'Описание...', 'Ключи');
-        $this->set(['']);
-    }
+        $name = 'TEST';
+        $age = 34;
+        $names = ['Gandalf', 'Qui-Gon Jinn',];
+        $this->set(compact('name', 'age', 'names', 'posts'));    }
 
 
 }
