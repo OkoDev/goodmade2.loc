@@ -1,6 +1,3 @@
-
-<!--TODO 'download 404 tempate(скачать шаблон страницы "ошибка 404",В public/errors-->
-<!--TODO ч.3 "код обработки ошибок", 17:20)';-->
 <!--Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported

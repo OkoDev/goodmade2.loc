@@ -2,6 +2,8 @@
 
 use goodmade\Router;
 
+//user routes
+Router::add('^product/(?P<alias>[a-z0-9-]+)/?$', ['controller' => 'Product', 'action' => 'view']);
 
 
 // default routes
