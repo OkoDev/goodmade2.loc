@@ -1,0 +1,37 @@
+a:2:{s:4:"data";s:1183:"<li>
+    <a href="category/men"> Мужчинам </a>
+        <ul>
+        <li>
+    <a href="category/m_hair"> Для Волос </a>
+    </li><li>
+    <a href="category/m_body"> Для Тела </a>
+    </li><li>
+    <a href="category/w_body"> Для Тела </a>
+    </li><li>
+    <a href="category/m_face"> Для Лица </a>
+        <ul>
+        <li>
+    <a href="category/m_shaving"> Для Бритья </a>
+    </li>    </ul>
+    </li>    </ul>
+    </li><li>
+    <a href="category/women"> Женщинам </a>
+        <ul>
+        <li>
+    <a href="category/w_Hair"> Для Волос </a>
+    </li><li>
+    <a href="category/w_face"> Для Лица </a>
+    </li><li>
+    <a href="category/real_soap"> Мыло "с нуля" </a>
+    </li><li>
+    <a href="category/hydrophilic_tiles"> Гидрофильные плитки </a>
+    </li>    </ul>
+    </li><li>
+    <a href="category/kids"> Детям </a>
+    </li><li>
+    <a href="category/baskets"> Подарочные наборы </a>
+    </li><li>
+    <a href="category/souvenirs"> Сувениры </a>
+    </li><li>
+    <a href="category/other"> Другое </a>
+    </li>";s:8:"end_time";i:1549825544;}

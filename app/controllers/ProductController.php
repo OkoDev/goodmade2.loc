@@ -12,10 +12,14 @@ class ProductController extends AppController{
             throw new \Exception('Страница не найдена',404);
         }
 
+// хлебные крошки
+        $breadcrumbs = Breadcrumbs::getBreadcrumbs($product->category_id, $product->title);
 
-//todo хлебные крошки
+// запись в куки?
+        $p_model = new Product();
+        $p_model->setRecentlyViewed($product->id);
 
-        //todo просмотренные (запись в куки?)
+        //todo просмотренные
         //todo связанные товары
 
         $related = \R::getAll("SELECT * FROM related_product 
@@ -25,9 +29,12 @@ class ProductController extends AppController{
                                [$product->id]);
 //        debug($related);
         //todo галерея
+        $gallery = \R::findAll('gallery','product_id = ?',[$product->id]);
+        debug($gallery);
+
         //todo модификации товара
 
         $this->setMeta($product->title, $product->description, $product->keywords);
-        $this->set(compact('product','related'));
+        $this->set(compact('product','related', 'gallery'));
     }
 }
