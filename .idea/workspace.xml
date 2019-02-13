@@ -3,184 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a9e2ff50-fa5f-45c2-8d6c-e9c764ec4d6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/Breadcrumbs.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Breadcrumbs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Product/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Product/view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/abt-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/abt-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/abt-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/bnr-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/bnr-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/bnr-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/c-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/c-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/c-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/pr-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/pr-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/s-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/s-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/old/s-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/OnBQBMZmUmY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/OnBQBMZmUmY_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/S640yK1PzZk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/gf-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/lanZOTJ1ZVs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/lanZOTJ1ZVs_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/pDgTCSNGdX4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/pDgTCSNGdX4_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/Гидрофильные плитки.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Гидрофильные плитки/Гидрофильные плитки.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/Ip43QuG-Gc4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/Ip43QuG-Gc4_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/JgaxovU3goc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/JgaxovU3goc_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/XCX-jioxw20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/XCX-jioxw20_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/aScIGdBw1t4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/aScIGdBw1t4_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/eSgpCs5BjwY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/eSgpCs5BjwY_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/en0jE6tbPG4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/en0jE6tbPG4_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/fYhYuysFBpU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/fYhYuysFBpU_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/gulsz2Ix8ok.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/gulsz2Ix8ok_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/u7gNvWy97g4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/u7gNvWy97g4_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/xdQlLeJMXIM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/xdQlLeJMXIM_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/Мыло #с нуля.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло #с нуля/Мыло #с нуля.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/0LFgwk57K1g.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/0LFgwk57K1g_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/40jy60UKnGw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/40jy60UKnGw_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/7aoNdbFmQVo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/7aoNdbFmQVo_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/RV9yBQbCOaQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/RV9yBQbCOaQ_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/SFqBbFCY5cE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/SFqBbFCY5cE_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/Zf1MeFrxP7U.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/Zf1MeFrxP7U_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/ck3q2tBMkU8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/ck3q2tBMkU8_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/if-iDybE6HM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/if-iDybE6HM_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/sB5M13CCfAQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/sB5M13CCfAQ_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/uw3-U9gkkCs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/uw3-U9gkkCs_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/Мыло на любой вкус.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Мыло на любой вкус/Мыло на любой вкус.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/9MD74C1zqGM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/9MD74C1zqGM_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/ApUxKUphoC4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/ApUxKUphoC4_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/GHVyoEQrS_c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/GHVyoEQrS_c_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/Msiq0hRhGDM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/Msiq0hRhGDM_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/VOhBre4ns1E.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/VOhBre4ns1E_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/ZZLcrbvAvKI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/ZZLcrbvAvKI_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/aYiPCKDcMcM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/aYiPCKDcMcM_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/sHDdFXiHW-w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/sHDdFXiHW-w_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/tLC1uTRn17E.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/wq6ZkPcEQoc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/wq6ZkPcEQoc_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/Разное.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Разное/Разное.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/5J9sGbl1aT0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/5J9sGbl1aT0_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/CarMy10UE20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/CarMy10UE20_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/F-uamf1KMUQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/F-uamf1KMUQ_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/GBHfuDYSX6Y.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/GBHfuDYSX6Y_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/H0vWgGFYHrA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/H0vWgGFYHrA_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/KwOyCUak87Y.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/h-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/j0IwyQMUZUA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/j0IwyQMUZUA_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/l2MN3VYlFnA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/l2MN3VYlFnA_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/wPIxpoC8WeM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/Средства для волос.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для волос/Средства для волос.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/1ifBFrp7XxI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/1ifBFrp7XxI_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/98Mg1mO3x3Q.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/98Mg1mO3x3Q_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/9jsu5PltPfg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/FEYGOPaT20c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/FEYGOPaT20c_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/GUyfNEQYxlg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/GUyfNEQYxlg_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/K8r-Ms61Bvk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/Pzyqfdciq2k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/QRUUufVp0Pg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/Rw6KrsausPs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/Rw6KrsausPs_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/TisEiy7ce4E.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/UpZvbRHifa4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/doWiU6gim_Q.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/e1_G6Omg7-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/e1_G6Omg7-0_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/f-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/jeMTMtu7AGU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/jeMTMtu7AGU_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/lhoelj4iIC8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/qNUBD0XG-Oo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/qNUBD0XG-Oo_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/r1ShoA0W7Ss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/xZw58nQzY2U.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/xZw58nQzY2U_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/Средства для лица.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для лица/Средства для лица.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/1.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/13XQWcKw2E0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/CaY9xrl--pw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/CaY9xrl--pw_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/DBVTq-GcT1g.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/DBVTq-GcT1g_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/J-BgIPXTqqM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/SNSDELA0WXc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/U0cKvNnJl7w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/U0cKvNnJl7w_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/[оригиналы]/13XQWcKw2E0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/b-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/hjLzjEDs_rU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/if-iDybE6HM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/p7MC6danOv0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Средства для тела/p7MC6danOv0_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/-G6lFd90UK0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/4A1XeGQ7YbQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/4A1XeGQ7YbQ_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/6-3PS6HFSKM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/6uTgLO808Go.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/6uTgLO808Go_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/9ipDPzeUzFw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/9ipDPzeUzFw_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/M0ywrNC4iWU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/M0ywrNC4iWU_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/c4xflZVUSlg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/c4xflZVUSlg_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/colzxxUu_iU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/colzxxUu_iU_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/wnehY_R68Bc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/wnehY_R68Bc_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/zH9X3q7rV4Y.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/zH9X3q7rV4Y_новый размер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/Упаковка.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Новая папка (2)/Упаковка/Упаковка.xls" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
@@ -243,20 +65,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Product/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2200">
-              <caret line="155" column="38" lean-forward="true" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
-              <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" />
-              </folding>
+            <state relative-caret-position="3100">
+              <caret line="155" column="38" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/Breadcrumbs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+            <state relative-caret-position="260">
+              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -264,17 +83,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/Product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="140">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/ProductController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+            <state relative-caret-position="380">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="e#35#62#0#PHP" expanded="true" />
               </folding>
@@ -355,7 +174,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="width" value="840" />
     <option name="height" value="1010" />
   </component>
@@ -465,7 +284,9 @@
       <workItem from="1549563750696" duration="8512000" />
       <workItem from="1549699729257" duration="612000" />
       <workItem from="1549702807641" duration="29681000" />
-      <workItem from="1549785665411" duration="28767000" />
+      <workItem from="1549785665411" duration="29048000" />
+      <workItem from="1549903711897" duration="593000" />
+      <workItem from="1550078011946" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="$data">
       <created>1548190760151</created>
@@ -523,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549825970547</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="full project">
+      <created>1549834099363</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549834099363</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145968000" />
+    <option name="totallyTimeSpent" value="148181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -539,10 +367,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="0" y="0" width="840" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14486553" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31153846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32997763" />
@@ -661,9 +489,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/cache/c37e6776551324196864e790ea51ddba.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/cache/c37e6776551324196864e790ea51ddba.txt" />
     <entry file="das://71c2f588-2369-47a2-a436-26d7b5ae1ef2/schema/goodmade/table/category">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -722,37 +548,10 @@
     <entry file="file://$PROJECT_DIR$/public/errors/404.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa1612.25972/ishop2.loc/app/widgets/menu/Menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="66" lean-forward="true" selection-end-line="93" selection-end-column="1" />
-          <folding>
-            <element signature="e#36#50#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa1612.49962/ishop2.loc/app/views/Product/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1612.5024/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2340">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1612.15645/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="131" selection-start-line="131" selection-end-line="160" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa1612.25972/ishop2.loc/app/widgets/menu/Menu.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa1612.49962/ishop2.loc/app/views/Product/view.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1612.5024/view.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1612.15645/view.php" />
     <entry file="file://$PROJECT_DIR$/app/widgets/menu/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
@@ -821,13 +620,7 @@
     <entry file="file://$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6756.9491/ishop2.loc/app/views/Product/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6756.9491/ishop2.loc/app/views/Product/view.php" />
     <entry file="file://$PROJECT_DIR$/vendor/composer/ClassLoader.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -868,23 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Product/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="155" column="38" lean-forward="true" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Breadcrumbs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10700.45022/ishop2.loc/app/controllers/ProductController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -892,20 +668,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Product.php">
+    <entry file="file://$PROJECT_DIR$/app/views/Product/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="3100">
+          <caret line="155" column="38" selection-start-line="155" selection-start-column="38" selection-end-line="155" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/ProductController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+        <state relative-caret-position="380">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="e#35#62#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Breadcrumbs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
         </state>
       </provider>
     </entry>
